@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Employee category ="Details">
+    <Employee1>
+        <Details>
+            <First_Name>"Kumar"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>1987-03-18</Dob>
+            <Gender>Male</Gender>
+            <Position>Director Control</Position>
+            <Salary>100000</Salary>
+            <Email>kumar@gmail.com</Email>
+            <Phone_Number>9879089034</Phone_Number>
+        </Details>
+    </Employee1>
+    <Employee2>
+        <Details>
+            <First_Name>"Anuradha"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>1990-04-21</Dob>
+            <Gender>Female</Gender>
+            <Position>Manager</Position>
+            <Salary>50000</Salary>
+            <Email>anu@gmail.com</Email>
+            <Phone_Number>9789045780</Phone_Number>
+        </Details>
+    </Employee2>
+    <Employee3>
+        <Details>
+            <First_Name>"Priyanga"</First_Name>
+            <Last_Name>"k"</Last_Name>
+            <Dob>2003-11-26</Dob>
+            <Gender>Female</Gender>
+            <Position>Analysta</Position>
+            <Salary>30000</Salary>
+            <Email>priyuu@gmail.com</Email>
+            <Phone_Number>9872435611</Phone_Number>
+        </Details>
+    </Employee3>
+</Employee>        
